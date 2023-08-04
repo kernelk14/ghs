@@ -1,0 +1,16 @@
+{
+  "name": "ghs",
+  "module": "main.js",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "octokit": "^3.1.0",
+    "terminal-paginator": "^2.0.2"
+  }
+}
